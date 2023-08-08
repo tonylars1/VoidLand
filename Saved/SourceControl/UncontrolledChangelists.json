@@ -13,7 +13,13 @@
 				"E:/RoinVoid_4_27/VoidLand/VoidLand/VoidLand/Content/Vest/New_Inventory/Items/Icon/BP_Wood.uasset",
 				"E:/RoinVoid_4_27/VoidLand/VoidLand/VoidLand/Content/Vest/Widget_System/Main_Widget.uasset",
 				"E:/RoinVoid_4_27/VoidLand/VoidLand/VoidLand/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset",
-				"E:/RoinVoid_4_27/VoidLand/VoidLand/VoidLand/Content/Vest/Widget_System/W_StatBar.uasset"
+				"E:/RoinVoid_4_27/VoidLand/VoidLand/VoidLand/Content/Vest/Widget_System/W_StatBar.uasset",
+				"E:/RoinVoid_4_27/VoidLand/VoidLand/VoidLand/Content/ThirdPersonBP/Blueprints/CustomAnim/AxeAttack.uasset",
+				"E:/RoinVoid_4_27/VoidLand/VoidLand/VoidLand/Content/ThirdPersonBP/Blueprints/CustomAnim/AxeAttack_Montage.uasset",
+				"E:/RoinVoid_4_27/VoidLand/VoidLand/VoidLand/Content/ThirdPersonBP/Tools/Tool.uasset",
+				"E:/RoinVoid_4_27/VoidLand/VoidLand/VoidLand/Content/ThirdPersonBP/Tools/Tool_Axe.uasset",
+				"E:/RoinVoid_4_27/VoidLand/VoidLand/VoidLand/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset",
+				"E:/RoinVoid_4_27/VoidLand/VoidLand/VoidLand/Content/ThirdPersonBP/Tools/Tool_PickAxe.uasset"
 			]
 		}
 	]
